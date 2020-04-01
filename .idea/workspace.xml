@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec695e8a-1a71-4246-b08c-d02d5ea907bc" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="fedo_website" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZCS7g9V31tJRO9CLQNUgdLm7ES" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../timbaas" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec695e8a-1a71-4246-b08c-d02d5ea907bc" name="Default" comment="" />
+      <created>1583904777369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583904777369</updated>
+      <workItem from="1583904778874" duration="10974000" />
+      <workItem from="1583932451447" duration="14721000" />
+      <workItem from="1583988221227" duration="54810000" />
+      <workItem from="1584134141895" duration="1457000" />
+      <workItem from="1584160516872" duration="24261000" />
+      <workItem from="1584211799779" duration="6658000" />
+      <workItem from="1584247760425" duration="25176000" />
+      <workItem from="1584284298688" duration="4120000" />
+      <workItem from="1584292081529" duration="10281000" />
+      <workItem from="1584339629221" duration="669000" />
+      <workItem from="1584341190160" duration="16000" />
+      <workItem from="1584341438152" duration="13586000" />
+      <workItem from="1584381764326" duration="3208000" />
+      <workItem from="1584415291730" duration="2667000" />
+      <workItem from="1584460174644" duration="6394000" />
+      <workItem from="1584473320843" duration="7600000" />
+      <workItem from="1584507635557" duration="563000" />
+      <workItem from="1584517294386" duration="4759000" />
+      <workItem from="1584556359007" duration="4554000" />
+      <workItem from="1584594235263" duration="57000" />
+      <workItem from="1584596355688" duration="5272000" />
+      <workItem from="1584670765577" duration="9807000" />
+      <workItem from="1584708302254" duration="2228000" />
+      <workItem from="1584769247774" duration="140000" />
+      <workItem from="1584770190149" duration="1810000" />
+      <workItem from="1584778789548" duration="364000" />
+      <workItem from="1584804356925" duration="1326000" />
+      <workItem from="1584808408639" duration="9025000" />
+      <workItem from="1584845693574" duration="3918000" />
+      <workItem from="1584853629723" duration="7132000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584848537032">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1584848537032" />
+    <state x="312" y="39" key="FileChooserDialogImpl" timestamp="1584861299137">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="312" y="39" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584861299137" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1584813117526">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584813117526" />
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1584853628864">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1584853628864" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/js/timer.js</url>
+          <line>25</line>
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
